@@ -1,4 +1,4 @@
-Answers from Group D
+All answers from Group D
 
 Q1.	output application/json
 	---
